@@ -21,7 +21,8 @@ class HelloApplicationTests {
 	private MockMvc mvc;
 	
 	@Test
-	void contextLoads()  {
+	void contextLoads()
+	{
 	}
 	
 	@Test
